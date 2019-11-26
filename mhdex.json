@@ -108,5 +108,43 @@
       "Fogo"
     ]
      
+      },
+     {"id": 7,
+    "nome": "Iodrome",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Iodrome.jpg",
+    "especie": [
+      "Bird Wyvern"
+    ],
+    "elemento": [
+      "Nenhum"
+    ],
+   "status_negativo": [
+      "Veneno",
+      
+   ],
+    "fraco_contra": [
+      "Tovão",
+      "Água"
+    ]
+     
+     },
+     {"id": 8,
+    "nome": "Khezu",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Khezu.png",
+    "especie": [
+      "Flying Wyvern"
+    ],
+    "elemento": [
+      "Trovão"
+    ],
+   "status_negativo": [
+      "Thunderblight",
+      "Paralisia",
+     "Atordoamento"
+   ],
+    "fraco_contra": [
+      "Fogo"
+    ]
+     
      }]
 }
