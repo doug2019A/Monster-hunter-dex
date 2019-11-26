@@ -1,0 +1,22 @@
+{
+  "Monster List": [{
+    "id": 1,
+    "num": "001",
+    "nome": "Basarios",
+    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "elemento": [
+      "fogo"
+    ],
+   "status negativo": [
+      "Explosão",
+      "Veneno",
+      "Veneno nocivo",
+      "Sono"
+    ],
+    "fraco contra": [
+      "Dragao",
+      "Agua"
+    ],
+  }
+ 
+}
