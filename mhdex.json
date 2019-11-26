@@ -226,5 +226,45 @@
       "Trovão",
       "Dragão"
     ]
+      
+       },
+     {"id": 13,
+    "nome": "Velocidrome",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Velocidrome.jpg",
+    "especie": [
+      "Bird Wyvern"
+    ],
+    "elemento": [
+      "Nenhum"
+    ],
+   "status_negativo": [
+      "Nenhum"
+     
+     
+   ],
+    "fraco_contra": [
+      "Trovão",
+      "Gelo"
+    ]
+        },
+     {"id": 14,
+    "nome": "Yan Kut-Ku",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Yan Kut-ku.png",
+    "especie": [
+      "Bird Wyvern"
+    ],
+    "elemento": [
+      "Fogo"
+    ],
+   "status_negativo": [
+      " Fireblight"
+     
+     
+   ],
+    "fraco_contra": [
+      "Água",
+      "Gelo"
+    ]
+     
      }]
 }
