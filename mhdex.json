@@ -1,5 +1,5 @@
 {
-  "Monster List": [{
+  "monster_list": [{
     "id": 1,
     "num": "001",
     "nome": "Basarios",
@@ -7,13 +7,13 @@
     "elemento": [
       "fogo"
     ],
-   "status negativo": [
+   "status_negativo": [
       "Explosão",
       "Veneno",
       "Veneno nocivo",
       "Sono"
     ],
-    "fraco contra": [
+    "fraco_contra": [
       "Dragao",
       "Agua"
     ],
