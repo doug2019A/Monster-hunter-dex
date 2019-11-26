@@ -304,16 +304,12 @@
    "status_negativo": [
       " Paralisia",
      "Thunderblight"
-    
-   
    ],
     "fraco_contra": [
       "Água",
       "Fogo"
-    ]
-      
-      
-        },
+      ]
+    },
      {"id": 17,
     "nome": "Lao-Shan Lung",
     "img": "http://www.arduinoirrigacao.tk/img/mh/LaoShanLung.jpg",
