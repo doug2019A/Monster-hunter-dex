@@ -7,15 +7,15 @@
     "elemento": [
       "fogo"
     ],
-   "status_negativo": [{
+   "status_negativo": [
       "Explosão",
       "Veneno",
       "Veneno nocivo",
       "Sono"
-   }],
-    "fraco_contra": [{
+   ],
+    "fraco_contra": [
       "Dragao",
       "Agua"
-    }]
+    ]
  }]
 }
