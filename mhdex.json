@@ -36,5 +36,43 @@
       "Gelo",
       "Trovão"
     ]
- }]
+     },
+      {"id": 3,
+    "nome": "Diablos",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Diablos.jpg",
+    "especie": [
+      "Flying Wyvern"
+    ],
+    "elemento": [
+      "Nenhum"
+    ],
+   "status_negativo": [
+      "Nenhum"
+     
+   ],
+    "fraco_contra": [
+      "Gelo"
+      
+    ]
+      },
+     {"id": 4,
+    "nome": "Gendrome",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Gendrome.jpg",
+    "especie": [
+      "Bird Wyvern"
+    ],
+    "elemento": [
+      "Nenhum"
+    ],
+   "status_negativo": [
+      "Paralisia",
+      "Atordoamento"
+   ],
+    "fraco_contra": [
+      "Gelo",
+      "Água"
+    ]
+     
+ }
+  ]//final list
 }
