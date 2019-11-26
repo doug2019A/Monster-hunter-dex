@@ -4,17 +4,32 @@
     "nome": "Basarios",
     "img": "http://www.arduinoirrigacao.tk/img/mh/Basarios.jpg",
     "elemento": [
-      "fogo"
+      "Fogo"
     ],
    "status_negativo": [
       "Explosão",
       "Veneno",
-      "Veneno nocivo",
+      "Veneno Nocivo",
       "Sono"
    ],
     "fraco_contra": [
       "Dragao",
       "Agua"
     ]
+  }, "id": 2,
+    "nome": "Cephadrome",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Cephadrome.jpg",
+    "elemento": [
+      "Água"
+    ],
+   "status_negativo": [
+      "Paralisia",
+      "WaterBlind"
+   ],
+    "fraco_contra": [
+      "Gelo",
+      "Trovão"
+    ]
+    
  }]
 }
