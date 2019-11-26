@@ -3,6 +3,9 @@
     "id": 1,
     "nome": "Basarios",
     "img": "http://www.arduinoirrigacao.tk/img/mh/Basarios.jpg",
+    "especie": [
+      "Flying Wyvern"
+    ],
     "elemento": [
       "Fogo"
     ],
@@ -19,6 +22,9 @@
   }, {"id": 2,
     "nome": "Cephadrome",
     "img": "http://www.arduinoirrigacao.tk/img/mh/Cephadrome.jpg",
+    "especie": [
+      "Piscine Wyvern"
+    ],
     "elemento": [
       "Água"
     ],
