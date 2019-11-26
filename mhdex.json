@@ -265,6 +265,72 @@
       "Água",
       "Gelo"
     ]
+      
+        },
+     {"id": 15,
+    "nome": "Fatalis",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Fatalis.jpg",
+    "especie": [
+      "Elder Dragon"
+    ],
+    "elemento": [
+      "Fogo",
+      "Dragão",
+      "Fogo Negro"
+    ],
+   "status_negativo": [
+      " Fireblight",
+     " Dragonblight",
+     "Sangramento",
+     "Explosão"
+   
+   ],
+    "fraco_contra": [
+      "Dragão",
+      "Fogo"
+    ]
+      
+        },
+     {"id": 16,
+    "nome": "Kirin",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Kirin.jpg",
+    "especie": [
+      "Elder Dragon"
+    ],
+    "elemento": [
+      "Trovão"
+     
+    ],
+   "status_negativo": [
+      " Paralisia",
+     "Thunderblight",
+    
+   
+   ],
+    "fraco_contra": [
+      "Água",
+      "Fogo"
+    ]
+      
+      
+        },
+     {"id": 17,
+    "nome": "Lao-Shan Lung",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/LaoShanLung.jpg",
+    "especie": [
+      "Elder Dragon"
+    ],
+    "elemento": [
+      "Nenhum"
+     
+    ],
+   "status_negativo": [
+      " Nenhum"
+   ],
+    "fraco_contra": [
+      "Dragão"
+    ]
+      
      
      }]
 }
