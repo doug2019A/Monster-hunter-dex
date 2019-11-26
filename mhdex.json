@@ -146,5 +146,44 @@
       "Fogo"
     ]
      
+      },
+     {"id": 9,
+    "nome": "Monoblos",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Monoblos.jpg",
+    "especie": [
+      "Flying Wyvern"
+    ],
+    "elemento": [
+      "Nenhum"
+    ],
+   "status_negativo": [
+      "Nenhum"
+     
+   ],
+    "fraco_contra": [
+      "Trovão",
+      "Gelo"
+    ]
+      
+     },
+     {"id": 10,
+    "nome": "Plesioth",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Plesioth.png",
+    "especie": [
+      "Piscine Wyvern"
+    ],
+    "elemento": [
+      "Água"
+    ],
+   "status_negativo": [
+      "Waterblight",
+     "Sono"
+     
+   ],
+    "fraco_contra": [
+      "Trovão",
+      "Fogo"
+    ]
+      
      }]
 }
