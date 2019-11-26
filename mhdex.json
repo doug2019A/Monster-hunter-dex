@@ -184,6 +184,47 @@
       "Trovão",
       "Fogo"
     ]
+      },
+     {"id": 11,
+    "nome": "Rathalos",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Rathalos.png",
+    "especie": [
+      "Flying Wyvern"
+    ],
+    "elemento": [
+      "Fogo"
+    ],
+   "status_negativo": [
+      "Fireblight ",
+     "Atordoamento",
+     "Veneno"
+     
+   ],
+    "fraco_contra": [
+      "Trovão",
+      "Gelo",
+      "Água",
+      "Dragão"
+    ] 
       
+      },
+     {"id": 12,
+    "nome": "Rathian",
+    "img": "http://www.arduinoirrigacao.tk/img/mh/Rathian.png",
+    "especie": [
+      "Flying Wyvern"
+    ],
+    "elemento": [
+      "Fogo"
+    ],
+   "status_negativo": [
+      "Fireblight",
+     "Veneno"
+     
+   ],
+    "fraco_contra": [
+      "Trovão",
+      "Dragão"
+    ]
      }]
 }
