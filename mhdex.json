@@ -2,7 +2,7 @@
   "monster_list": [{
     "id": 1,
     "nome": "Basarios",
-    "img": "https://files.000webhost.com/img/Basarios.png",
+    "img": "https://files.000webhost.com/public_html/img/Basarios.png",
     "elemento": [
       "fogo"
     ],
